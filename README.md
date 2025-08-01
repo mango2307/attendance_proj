@@ -12,5 +12,5 @@
 | D5     | ○ |
 
 ## 테스트 커버리지
-<img src="./mission2/coverage.png">
+<img width="1098" height="313" alt="Image" src="https://github.com/user-attachments/assets/0bc19f1c-41ea-45d4-934f-40c7270d3e49" />
 
